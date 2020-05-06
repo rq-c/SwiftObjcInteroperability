@@ -11,3 +11,4 @@ For this we need a bridge between languages that in this case will be _"yourproj
 
 Finally we add the property Objective-C Bridging Header:
 
+![alt text](https://github.com/rq-c/SwiftObjcInteroperability/blob/master/ObjectiveCBridgingHeader.jpg?raw=true)
